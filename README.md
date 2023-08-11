@@ -2,7 +2,7 @@
 dump classes loaded in the JVM
 
 # Usage
-Add -javaagent:ClassDumper.jar to your JVM arguments in your launcher.
+Add **-javaagent:ClassDumper.jar** at the start of your JVM arguments in your launcher.
 
 [1]: https://github.com/accessmodifier364/
 [2]: https://github.com/accessmodifier364/Dumper
